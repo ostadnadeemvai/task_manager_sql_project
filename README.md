@@ -1,7 +1,5 @@
 *Database name Task Manager*
 
-CREATE DATABASE task_manager;
-
 *2 Tables are created*
  1.User Table
  2.Task Table
